@@ -1,1 +1,1 @@
-# pi-kkon
+# my personal pi (coding agent) package
