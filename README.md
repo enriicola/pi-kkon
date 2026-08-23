@@ -7,5 +7,6 @@ https://gemini.google.com/app/feb8a75dfd9ab580
 ## todos
 
 - [ ] custom pikkon header :) (ascii art or lighweight image)
+- [ ] extension for checking usage and limits of the selected llm provider
 - [ ] ...
 
